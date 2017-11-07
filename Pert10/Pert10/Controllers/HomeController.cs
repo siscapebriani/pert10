@@ -10,7 +10,7 @@ namespace Pert10.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Oscar Page";
 
             return View();
         }
